@@ -1,2 +1,2 @@
-# LazerTag X
-Cross platform laser tag project for VR and non VR.
+# Quest VR
+Default template for testing
