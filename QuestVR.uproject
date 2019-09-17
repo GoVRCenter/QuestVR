@@ -2,10 +2,5 @@
 	"FileVersion": 3,
 	"EngineAssociation": "4.23",
 	"Category": "",
-	"Description": "",
-	"TargetPlatforms": [
-		"PS4",
-		"WindowsNoEditor",
-		"Android"
-	]
+	"Description": ""
 }
